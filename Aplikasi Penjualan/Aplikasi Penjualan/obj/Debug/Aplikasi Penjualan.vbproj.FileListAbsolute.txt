@@ -1,0 +1,548 @@
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 1\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 3 Koneksi Database\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 4 Desain form\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 5 Desain form barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 6 menampil data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 7 pencarian data\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 8 form input tambah\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 9 simpan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 10 edit data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 11 delete data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 12 desain form penjualan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 13 no transaksi otomatis\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 14 Transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 15 Grand total dan pembayaran\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 16 simpan data transaksi\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 17 laporan data barang\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 18 laporan jual harian\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 19 laporan jual bulanan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Tahun.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 20 laporan jual tahunan\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Flash.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Tahun.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 21 loading\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Flash.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Tahun.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_User.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 22 crud login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Flash.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Tahun.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Login.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_User.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan 23 login\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.config
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\FlashControlV71.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\ShockwaveFlashObjects.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\stdole.dll
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbprojAssemblyReference.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form1.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Flash.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Input_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Barang.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Bulan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Harian.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Lap_Jual_Tahun.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Login.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Menu.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_Penjualan.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Form_User.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi_Penjualan.Resources.resources
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.GenerateResource.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CoreCompileInputs.cache
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.vbproj.CopyComplete
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.xml
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.pdb
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.exe.manifest
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\bin\Debug\Aplikasi Penjualan.application
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.exe.manifest
+D:\Praktek new\Padang Tekno\Vb\Membangun Aplikasi Penjualan Dengan VB.Net\Aplikasi Penjualan End\Aplikasi Penjualan\Aplikasi Penjualan\obj\Debug\Aplikasi Penjualan.application
